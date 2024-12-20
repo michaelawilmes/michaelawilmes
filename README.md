@@ -1,5 +1,5 @@
 - Hi, I’m Michael
-- I’m currently learning Ansible and Python.
+- I’m currently learning how to use Ansible and write Python scripts.
 - I currently work as a network engineer for a non-profit healthcare orginzation
 
 <!---
